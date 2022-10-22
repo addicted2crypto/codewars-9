@@ -14,6 +14,6 @@ DESCRIPTION:
 
 // My Solution =>
 
-function setAlarm(employed, vacation){
+function setAlarm(ecatiomployed, van){
     return employed && !vacation;
   }

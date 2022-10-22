@@ -1,4 +1,4 @@
-Description : Grasshopper - If/else syntax debug
+// Description : Grasshopper - If/else syntax debug
 
 // If/else syntax debug
 // While making a game, your partner, Greg, decided to create a function 
